@@ -1,0 +1,4 @@
+med/sci = 0
+politics = 1
+sports = 2
+other = 3

@@ -1,0 +1,239 @@
+{
+  "created_at": "Mon Jan 20 16:35:00 +0000 2020",
+  "id": 1219297282773807104,
+  "id_str": "1219297282773807104",
+  "full_text": "The world's billionaires are richer than 60% of the global population, says the annual #OxfamReport on global #inequality\n\nThe report urges governments to increase taxes on the world's richest citizens, as well as to take action on #climatechange \ud83d\udcb5 \ud83d\uddfa \u2935\ufe0f https://t.co/iBR1tSx8R0",
+  "truncated": false,
+  "display_text_range": [
+    0,
+    253
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "text": "OxfamReport",
+        "indices": [
+          87,
+          99
+        ]
+      },
+      {
+        "text": "inequality",
+        "indices": [
+          110,
+          121
+        ]
+      },
+      {
+        "text": "climatechange",
+        "indices": [
+          232,
+          246
+        ]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [],
+    "media": [
+      {
+        "id": 1219261431213891584,
+        "id_str": "1219261431213891584",
+        "indices": [
+          254,
+          277
+        ],
+        "media_url": "http://pbs.twimg.com/amplify_video_thumb/1219261431213891584/img/p_k4hKykVrNyEpGm.jpg",
+        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1219261431213891584/img/p_k4hKykVrNyEpGm.jpg",
+        "url": "https://t.co/iBR1tSx8R0",
+        "display_url": "pic.twitter.com/iBR1tSx8R0",
+        "expanded_url": "https://twitter.com/France24_en/status/1219297282773807104/video/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 675,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 383,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1280,
+            "h": 720,
+            "resize": "fit"
+          }
+        },
+        "features": {}
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1219261431213891584,
+        "id_str": "1219261431213891584",
+        "indices": [
+          254,
+          277
+        ],
+        "media_url": "http://pbs.twimg.com/amplify_video_thumb/1219261431213891584/img/p_k4hKykVrNyEpGm.jpg",
+        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1219261431213891584/img/p_k4hKykVrNyEpGm.jpg",
+        "url": "https://t.co/iBR1tSx8R0",
+        "display_url": "pic.twitter.com/iBR1tSx8R0",
+        "expanded_url": "https://twitter.com/France24_en/status/1219297282773807104/video/1",
+        "type": "video",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 675,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 383,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1280,
+            "h": 720,
+            "resize": "fit"
+          }
+        },
+        "video_info": {
+          "aspect_ratio": [
+            16,
+            9
+          ],
+          "duration_millis": 73479,
+          "variants": [
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1219261431213891584/vid/640x360/_4DysDK12gLQY1so.mp4?tag=13"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/1219261431213891584/pl/cMFRWLYAs5x8FKur.m3u8?tag=13"
+            },
+            {
+              "bitrate": 288000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1219261431213891584/vid/480x270/juYq_icx2J37z2NG.mp4?tag=13"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1219261431213891584/vid/1280x720/6QKI3EWoU3jP9TVL.mp4?tag=13"
+            }
+          ]
+        },
+        "features": {},
+        "additional_media_info": {
+          "title": "Oxfam warns of widening gap between rich and poor",
+          "description": "\"Our broken economies are lining the pockets of billionaires and big business at the expense of ordinary men and women,\" Oxfam India's CEO Amitabh Behar said.",
+          "call_to_actions": {
+            "visit_site": {
+              "url": "https://www.france24.com/en/20200120-billionaires-richer-than-60-percent-of-the-world-s-population-oxfam"
+            }
+          },
+          "embeddable": true,
+          "monetizable": false
+        }
+      }
+    ]
+  },
+  "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 25049056,
+    "id_str": "25049056",
+    "name": "FRANCE 24 English",
+    "screen_name": "France24_en",
+    "location": "Paris, France",
+    "description": "\ud83c\udf0d The French international news channel live 24/7 from Paris - Follow us for top stories on #business, #politics and #sports - \ud83d\udd34 Breaking Alerts: @BreakingF24",
+    "url": "https://t.co/OJlH1KbEn8",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/OJlH1KbEn8",
+            "expanded_url": "https://www.france24.com/en/",
+            "display_url": "france24.com/en/",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 227440,
+    "friends_count": 1157,
+    "listed_count": 5386,
+    "created_at": "Wed Mar 18 09:22:54 +0000 2009",
+    "favourites_count": 455,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": true,
+    "statuses_count": 273836,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "FFFFFF",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/875653339530182656/LJAMkNY5_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/875653339530182656/LJAMkNY5_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25049056/1562574875",
+    "profile_link_color": "00A7E3",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "CADAEB",
+    "profile_text_color": "115A95",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "can_media_tag": true,
+    "followed_by": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 7,
+  "favorite_count": 6,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "possibly_sensitive_appealable": false,
+  "lang": "en"
+}

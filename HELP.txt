@@ -1,0 +1,3 @@
+2etnwcnlnrt means the tweet list file that does not contain weird chars, links and RTs anymore.
+
+SE2et means the word embedding file that contains embeddings of words that exist in our data set.
